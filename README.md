@@ -7,6 +7,7 @@
 | 2022 | DEFCON Adversary Village | Workshop: Attack and Defend with Adversary Emulation | [Slides](https://github.com/securepeacock/presentations/blob/1fcd870d825ccf40a559cf6c10470f5d9d43781b/Adversary%20Village%20Workshop%202022.pdf) | |
 | 2022 | x33fcon | The Pyramid of TTP Pain | [Slides](https://github.com/securepeacock/presentations/blob/e535b0147d11faa15dda27d14cbaf8c1062039c3/slides/X33fcon.pdf) | [YouTube](https://youtu.be/cdtqaDPKn3E) |
 | 2022 | SANS Webinar | Threat-Informed Detection Engineering | [Slides](https://github.com/securepeacock/presentations/blob/main/PurpleTeamDetectionEngineering.pdf) | [YouTube](https://youtu.be/2czm8dhziX8) |
+| 2022 | SCYTHE | Summiting the Pyramid of Pain: The TTP Pyramid with Chris Peacock | | [YouTube](https://youtu.be/DjKTaltB1T0) |
 | 2022 | BSides Tampa | The Process of Detection Engineering | [Slides](https://github.com/securepeacock/presentations/blob/main/2022-BSides%20Tampa/The%20Process%20of%20Detection%20Engineering.pdf) | |
 | 2022 | SECUREWORLD | The Future of Blue Teams is Purple | | [Vimeo](https://vimeo.com/691830260) |
 | 2019 | BSides Tallahassee | Defending the Cyber Killchain |  | [YouTube](https://youtu.be/4LkugAlmnzA) |
