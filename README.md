@@ -13,3 +13,4 @@
 | 2022 | BSides Tampa | The Process of Detection Engineering | [Slides](https://github.com/securepeacock/presentations/blob/main/2022-BSides%20Tampa/The%20Process%20of%20Detection%20Engineering.pdf) | |
 | 2022 | SECUREWORLD | The Future of Blue Teams is Purple | | [Vimeo](https://vimeo.com/691830260) |
 | 2019 | BSides Tallahassee | Defending the Cyber Killchain | [Slides](https://github.com/securepeacock/presentations/blob/fc299dab1cb2141222ae5a9e35833bae1fdcd537/slides/BSides1_Final.pdf) | [YouTube](https://youtu.be/4LkugAlmnzA) |
+| 2017 | TalTech TechExpo | Cybersecurity Challenges in 2017 and Beyond | | [YouTube](https://youtu.be/UReBYMOFjx4?si=ProUL9iMCTbprAPU&t=2476)
