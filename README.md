@@ -6,7 +6,7 @@
 | 2022 | SANS PenTest HackFest 2022 | In the Trenches: Purple Team Do’s and Don’ts | [Slides](https://github.com/securepeacock/presentations/blob/7b993a81eddedfd402c8e0fa07e7abcee7fec06c/slides/SANS%20HackFest.pdf) | [YouTube](https://youtu.be/wfTMGTfr8gI) |
 | 2022 | BSides St Petersburg | TTP Pyramid | [Slides](https://github.com/securepeacock/presentations/blob/964393e73a3daa95e7761e6c71a775fd18ea0a9b/slides/BSides%20St%20Pete%20-%20TTP%20Pyramid.pdf) | [YouTube](https://youtu.be/iu_Uay5ZrSw) |
 | 2022 | DEFCON Adversary Village | Workshop: Attack and Defend with Adversary Emulation | [Slides](https://github.com/securepeacock/presentations/blob/1fcd870d825ccf40a559cf6c10470f5d9d43781b/Adversary%20Village%20Workshop%202022.pdf) | |
-| 2022 | SCYTHE | July 2022 Intermediate Purple Team Workshop with Chris Peacock | | [YouTube](https://youtu.be/BLPy3XiUm8g)
+| 2022 | SCYTHE | July 2022 Intermediate Purple Team Workshop with Chris Peacock | [Slides](https://github.com/securepeacock/presentations/blob/e547c56083ce3cf6adf274768306dd9901a1de4e/slides/PTW_%20Detection%20Engineering.pdf) | [YouTube](https://youtu.be/BLPy3XiUm8g)
 | 2022 | x33fcon | The Pyramid of TTP Pain | [Slides](https://github.com/securepeacock/presentations/blob/e535b0147d11faa15dda27d14cbaf8c1062039c3/slides/X33fcon.pdf) | [YouTube](https://youtu.be/cdtqaDPKn3E) |
 | 2022 | SANS Webinar | Threat-Informed Detection Engineering | [Slides](https://github.com/securepeacock/presentations/blob/main/PurpleTeamDetectionEngineering.pdf) | [YouTube](https://youtu.be/2czm8dhziX8) |
 | 2022 | SCYTHE | Summiting the Pyramid of Pain: The TTP Pyramid with Chris Peacock | | [YouTube](https://youtu.be/DjKTaltB1T0) |
